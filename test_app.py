@@ -1,2 +1,2 @@
 def test_basic():
-    assert 2 + 2 == 4
+    assert 2 + 1 == 3
